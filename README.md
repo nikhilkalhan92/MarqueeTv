@@ -14,7 +14,9 @@ We looked at the following as key aspects of the project, that I needed to focus
 
 Responsive Design: I focused on creating an intuitive flow that facilitated users from discovery to engagement. This included clear calls-to-action for registration, a streamlined subscription process. And of course, accessible to different devices.
 
-Performance Optimisation: I optimised all assets, implemented lazy loading for media content, and leveraged modern front-end practices to keep load times minimal without compromising on the visual quality of the artwork and performances.
+Performance Optimisation: I optimised all assets, implemented lazy loading for media content = faster load times, Size Optimization: Automatically serve correctly sized images for each device
+
+next.js imgae outof the box ith next.js provide the images which automaticcaly optimises the images.
 
 Accessibility and Inclusivity: I ensured compliance with WCAG guidelines
 
