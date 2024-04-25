@@ -16,8 +16,6 @@ Responsive Design: I focused on creating an intuitive flow that facilitated user
 
 Performance Optimisation: I optimised all assets, implemented lazy loading for media content = faster load times, Size Optimization: Automatically serve correctly sized images for each device
 
-next.js imgae outof the box ith next.js provide the images which automaticcaly optimises the images.
-
 Accessibility and Inclusivity: I ensured compliance with WCAG guidelines
 
 Collaborative Development: I worked in an Agile environment, regularly iterating based on feedback from stakeholders, QA testers, and user analytics. This allowed us to refine features and adjust to user needs continuously.
