@@ -6,6 +6,8 @@ https://marquee.tv/ -
 
  In a recent project, we developed a streaming service platform, the main goal was to create a rich, engaging, and highly accessible web experience that seamlessly brought the arts to users' homes.
 
+Marquee TV initially built its platform on Angular, but as the need for modernization arose, the decision to upgrade to React was made due to its popularity and robust ecosystem. However, recognizing the potential benefits of server-side rendering for image-heavy content, the proposal to migrate to Next.js gained traction within the team. Next.js's capability to render on the server side offered a significant advantage, especially for efficiently delivering picture content to users. The transition to Next.js promised not only improved performance but also better SEO and user experience. The consensus among the team was overwhelmingly positive, as they saw the move as a strategic step towards enhancing the platform's functionality and competitiveness in the market.
+
 # 2. What did you take into consideration to ensure the brief was met?
 
 #### First, I ensured I had a comprehensive understanding of the brief by collaborating closely with the design and product teams via user stories & epics. We aimed to translate the 'Netflix for the Arts' concept into a user-friendly interface of a premium streaming service.
