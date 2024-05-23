@@ -42,3 +42,51 @@ Marquee TV initially built its platform on Angular, but as the need for moderniz
 # 5. Is there anything you would have done differently in hindsight?
 
 #### Hindsight provides valuable insights for personal and professional development. I would have advocated for even earlier user testing sessions. Implementing a more robust CI/CD pipeline early on could have streamlined our development process, reduced manual errors, and accelerated the overall time to deployment. project has its set of unique challenges, and while the outcome was successful, these considerations would have further enhanced our efficiency and the product's impact
+
+
+
+# 1. Assessment and Planning:
+    * Begin by assessing the current Angular application to understand its architecture, dependencies, and features.
+    * Identify the reasons for migrating to Next.js, such as improved performance, SEO benefits, or better developer experience.
+    * Plan the migration process, considering factors like timeline, resource allocation, and potential challenges.
+# 2. Setup Next.js Project:
+# 3. Code Refactoring:
+    * Review the existing angular 4 codebase and identify components, services, and other Angular-specific constructs that need to be migrated.
+    * Refactor Angular components into React components, considering differences in syntax, lifecycle methods, and state management.
+    * Migrate Angular services to Next.js API routes or utility functions, ensuring compatibility with the new framework.
+    * Styling and UI Components:
+    * Review styling approaches used in the Angular app (e.g., CSS, SCSS, CSS-in-JS) and migrate them to Next.js.
+    * Leverage Next.js's support for CSS modules, styled-components, or other styling solutions.
+    * Refactor UI components to align with React's component-based architecture and best practices.
+# 4. Testing and Quality Assurance:
+    * Develop a testing strategy to ensure the functionality and performance of the migrated Next.js application.
+    * Write unit tests for components, API routes, and utility functions using testing frameworks like Jest and React Testing Library.
+    * Conduct integration tests to validate data fetching, routing, and state management.
+# 5. Deployment and Optimization:
+    * Prepare the Next.js application for deployment to production environments.
+    * Optimize the build process, including bundling, minification, and code splitting, to improve performance.
+    * Configure server-side rendering (SSR) or static site generation (SSG) for better SEO and initial load times.
+# 6. Documentation and Knowledge Sharing:
+    * Document the migration process, including any challenges faced and solutions implemented.
+    * Share knowledge and best practices with team members to ensure a smooth transition and facilitate ongoing maintenance.
+
+# Experience working in Agile or other cross-functional teams
+
+# Project Context:
+At Marquee TV, we transitioned our platform to Next.js to improve performance, scalability, and user experience. This project required close collaboration within an Agile, cross-functional team consisting of front-end developers, back-end developers, designers, and product managers.
+Agile Process:
+In sprint planning, the team, including developers, Bas, and the Scrum Master, scores user stories based on complexity and priority, allocating specific capacity to each developer. User stories are categorized by complexity, with less complex stories assigned lower scores and higher complexity stories receiving higher scores. The team then locks the scope by assigning resources to the allocated stories, ensuring efficient utilization of the three-week sprint duration. Using a Sprint Kanban converter, the team tracks the development and ongoing testing process, addressing any P1 and P2 defects that may arise during the sprint.
+
+
+# My Role and Contribution:
+As a front-end developer, I was responsible for migrating key components of the user interface to Next.js. I collaborated closely with designers to ensure the new components met our high UX standards and with back-end developers to integrate seamlessly with our APIs.
+# Example: Homepage Redesign
+One specific example was the homepage redesign. We aimed to reduce load times and improve navigation. During a sprint, I developed reusable React components and optimized image loading using Next.js features like image optimization and static generation. I also wrote unit tests to ensure the reliability of these components.
+# Collaboration and Communication:
+Throughout the sprint, we held daily stand-ups to discuss progress and blockers. Regular code reviews and pair programming sessions with team members ensured high code quality and facilitated knowledge sharing. At the end of the sprint, we demonstrated our progress during the sprint review and gathered feedback for continuous improvement.
+Outcome:
+# BA provide 
+The transition to Next.js resulted in a significantly faster, more responsive homepage, leading to a 20% increase in user engagement and positive feedback from our users. This experience highlighted the importance of Agile principles in delivering high-quality, user-focused solutions efficiently.
+
+
+
