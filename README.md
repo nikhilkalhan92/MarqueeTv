@@ -8,7 +8,7 @@ https://marquee.tv/ -
 
 Marquee TV initially built its platform on Angular, but as the need for modernization arose, the decision to upgrade to React was made due to its popularity and robust ecosystem. However, recognizing the potential benefits of server-side rendering for image-heavy content, the proposal to migrate to Next.js gained traction within the team. Next.js's capability to render on the server side offered a significant advantage, especially for efficiently delivering picture content to users. The transition to Next.js promised not only improved performance but also better SEO and user experience. The consensus among the team was overwhelmingly positive, as they saw the move as a strategic step towards enhancing the platform's functionality and competitiveness in the market.
 
-# 2. What did you take into consideration to ensure the brief was met?
+# 2. What did you take into considerat  ion to ensure the brief was met?
 
 #### First, I ensured I had a comprehensive understanding of the brief by collaborating closely with the design and product teams via user stories & epics. We aimed to translate the 'Netflix for the Arts' concept into a user-friendly interface of a premium streaming service.
 
@@ -82,6 +82,9 @@ In sprint planning, the team, including developers, Bas, and the Scrum Master, s
 As a front-end developer, I was responsible for migrating key components of the user interface to Next.js. I collaborated closely with designers to ensure the new components met our high UX standards and with back-end developers to integrate seamlessly with our APIs.
 # Example: Homepage Redesign
 One specific example was the homepage redesign. We aimed to reduce load times and improve navigation. During a sprint, I developed reusable React components and optimized image loading using Next.js features like image optimization and static generation. I also wrote unit tests to ensure the reliability of these components.
+# Backend
+I worked on the backend using a robust tech stack to ensure high performance and scalability. Our primary backend framework was Django, which facilitated rapid development and clean design. I wrote and maintained APIs in Python, utilizing its extensive libraries for efficient coding. For database management, I designed and optimized queries in PostgreSQL to ensure data integrity and performance. I integrated various microservices using RESTful APIs, ensuring seamless communication between different parts of the system. Additionally, I implemented caching strategies with Redis to reduce load times and improve user experience. Throughout these tasks, I followed best practices in software development, including code reviews and automated testing, to maintain high code quality.
+
 # Collaboration and Communication:
 Throughout the sprint, we held daily stand-ups to discuss progress and blockers. Regular code reviews and pair programming sessions with team members ensured high code quality and facilitated knowledge sharing. At the end of the sprint, we demonstrated our progress during the sprint review and gathered feedback for continuous improvement.
 Outcome:
