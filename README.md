@@ -44,7 +44,7 @@ Marquee TV initially built its platform on Angular, but as the need for moderniz
 #### Hindsight provides valuable insights for personal and professional development. I would have advocated for even earlier user testing sessions. Implementing a more robust CI/CD pipeline early on could have streamlined our development process, reduced manual errors, and accelerated the overall time to deployment. project has its set of unique challenges, and while the outcome was successful, these considerations would have further enhanced our efficiency and the product's impact
 
 
-
+# How migrated from angular to next.js
 # 1. Assessment and Planning:
     * Begin by assessing the current Angular application to understand its architecture, dependencies, and features.
     * Identify the reasons for migrating to Next.js, such as improved performance, SEO benefits, or better developer experience.
